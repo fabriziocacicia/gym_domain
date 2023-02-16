@@ -1,7 +1,5 @@
-#TODO: set the package name
-name: my_dart_package
-#TODO: set the package description
-description: A starting point for Dart libraries or applications.
+name: gym_domain
+description: A package that provides entities and logic about the gym domain.
 version: 0.0.1
 publish_to: none
 
